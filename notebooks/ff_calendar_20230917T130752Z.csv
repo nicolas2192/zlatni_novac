@@ -1,0 +1,413 @@
+event_date;event_time;currency;impact;event;actual_val;actual_status;forecast;previous
+;;;;;;;;
+Tue Aug 1;2:45am;NZD;Low;Building Consents m/m;3.5%;same;;-2.3%
+;3:01am;GBP;Low;BRC Shop Price Index y/y;7.6%;same;;8.4%
+;3:30am;JPY;Low;Unemployment Rate;2.5%;better;2.6%;2.6%
+;4:30am;JPY;Low;Final Manufacturing PMI;49.6;same;49.4;49.4
+;5:30am;AUD;Low;Building Approvals m/m;-7.7%;same;-7.9%;20.6%
+;5:45am;CNY;Medium;Caixin Manufacturing PMI;49.2;worse;50.1;50.5
+;7:35am;JPY;Low;10-y Bond Auction;0.59|3.6;same;;0.43|4.0
+;8:30am;AUD;High;Cash Rate;4.10%;worse;4.35%;4.10%
+;;AUD;High;RBA Rate Statement;;;;
+;10:00am;GBP;Low;Nationwide HPI m/m;-0.2%;better;-0.5%;0.1%
+;All Day;CHF;Non-Economic;Bank Holiday;;;;
+;10:30am;AUD;Low;Commodity Prices y/y;-23.5%;same;;-23.9%
+;11:15am;EUR;Low;Spanish Manufacturing PMI;47.8;worse;48.2;48.0
+;11:45am;EUR;Low;Italian Manufacturing PMI;44.5;same;44.4;43.8
+;11:50am;EUR;Low;French Final Manufacturing PMI;45.1;better;44.5;44.5
+;11:55am;EUR;Low;German Final Manufacturing PMI;38.8;same;38.8;38.8
+;;EUR;Low;German Unemployment Change;-4K;better;19K;30K
+;12:00pm;EUR;Low;Final Manufacturing PMI;42.7;same;42.7;42.7
+;;EUR;Low;Italian Monthly Unemployment Rate;7.4%;better;7.7%;7.6%
+;12:30pm;GBP;Low;Final Manufacturing PMI;45.3;same;45.0;45.0
+;1:00pm;EUR;Low;Unemployment Rate;6.4%;better;6.5%;6.5%
+;5:30pm;CAD;Low;Manufacturing PMI;49.6;same;;48.8
+;5:45pm;USD;Low;Final Manufacturing PMI;49.0;same;49.0;49.0
+;6:00pm;USD;High;ISM Manufacturing PMI;46.4;worse;46.9;46.0
+;;USD;High;JOLTS Job Openings;9.58M;same;9.61M;9.62M
+;;USD;Medium;ISM Manufacturing Prices;42.6;worse;43.8;41.8
+;;USD;Low;Construction Spending m/m;0.5%;same;0.6%;1.1%
+;;USD;Low;FOMC Member Goolsbee Speaks;;;;
+;All Day;USD;Low;Wards Total Vehicle Sales;15.7M;same;15.7M;15.7M
+;6:42pm;NZD;Low;GDT Price Index;-4.3%;same;;-1.0%
+;;;;;;;;
+Wed Aug 2;2:45am;NZD;High;Employment Change q/q;1.0%;better;0.6%;1.1%
+;;NZD;High;Unemployment Rate;3.6%;worse;3.5%;3.4%
+;;NZD;Low;Labor Cost Index q/q;1.1%;worse;1.2%;0.9%
+;3:50am;JPY;Low;Monetary Base y/y;-1.3%;same;-0.7%;-1.0%
+;;JPY;Low;Monetary Policy Meeting Minutes;;;;
+;11:00am;CHF;Low;SECO Consumer Climate;-27;worse;-25;-30
+;;EUR;Low;Spanish Unemployment Change;-11.0K;worse;-38.2K;-50.3K
+;11:30am;CHF;Low;Manufacturing PMI;38.5;worse;43.8;44.9
+;4:15pm;USD;High;ADP Non-Farm Employment Change;324K;better;191K;455K
+;6:30pm;USD;Low;Crude Oil Inventories;-17.0M;better;-0.9M;-0.6M
+;;;;;;;;
+Thu Aug 3;5:00am;NZD;Low;ANZ Commodity Prices m/m;-2.6%;same;;-1.7%
+;5:30am;AUD;Medium;Trade Balance;11.32B;better;10.87B;10.50B
+;5:45am;CNY;Medium;Caixin Services PMI;54.1;better;52.5;53.9
+;10:00am;EUR;Low;German Trade Balance;18.7B;better;15.0B;14.6B
+;10:30am;CHF;High;CPI m/m;-0.1%;same;-0.1%;0.1%
+;10:45am;EUR;Low;French Gov Budget Balance;-116.2B;same;;-107.2B
+;11:15am;EUR;Low;Spanish Services PMI;52.8;worse;53.5;53.4
+;11:45am;EUR;Low;Italian Services PMI;51.5;worse;52.2;52.2
+;11:50am;EUR;Low;French Final Services PMI;47.1;same;47.4;47.4
+;11:55am;EUR;Low;German Final Services PMI;52.3;same;52.0;52.0
+;12:00pm;EUR;Low;Final Services PMI;50.9;same;51.1;51.1
+;;EUR;Low;Italian Retail Sales m/m;-0.2%;worse;0.2%;0.6%
+;12:30pm;GBP;Low;Final Services PMI;51.5;same;51.5;51.5
+;12:44pm;EUR;Low;Spanish 10-y Bond Auction;3.61|1.5;same;;3.55|1.5
+;12:58pm;EUR;Low;French 10-y Bond Auction;3.09|1.8;same;;3.04|1.9
+;1:00pm;EUR;Low;PPI m/m;-0.4%;worse;-0.3%;-1.9%
+;All Day;All;Medium;OPEC-JMMC Meetings;;;;
+;3:00pm;GBP;High;BOE Monetary Policy Report;;;;
+;;GBP;High;Monetary Policy Summary;;;;
+;;GBP;High;MPC Official Bank Rate Votes;8-0-1;better;7-0-2;7-0-2
+;;GBP;High;Official Bank Rate;5.25%;same;5.25%;5.00%
+;3:30pm;GBP;High;BOE Gov Bailey Speaks;;;;
+;;USD;Low;Challenger Job Cuts y/y;-8.2%;same;;25.2%
+;4:30pm;USD;High;Unemployment Claims;227K;same;226K;221K
+;;USD;Low;Prelim Nonfarm Productivity q/q;3.7%;worse;2.1%;-2.1%
+;;USD;Low;Prelim Unit Labor Costs q/q;1.6%;worse;2.5%;4.2%
+;5:45pm;USD;Low;Final Services PMI;52.3;same;52.4;52.4
+;6:00pm;USD;High;ISM Services PMI;52.7;worse;53.1;53.9
+;;USD;Low;Factory Orders m/m;2.3%;better;2.0%;0.4%
+;6:30pm;USD;Low;Natural Gas Storage;14B;better;18B;16B
+;;;;;;;;
+Fri Aug 4;5:30am;AUD;Medium;RBA Monetary Policy Statement;;;;
+;10:00am;EUR;Low;German Factory Orders m/m;7.0%;better;-2.1%;6.2%
+;10:45am;EUR;Low;French Industrial Production m/m;-0.9%;worse;-0.3%;1.1%
+;;EUR;Low;French Prelim Private Payrolls q/q;0.1%;worse;0.2%;0.4%
+;12:00pm;EUR;Low;Italian Industrial Production m/m;0.5%;better;-0.3%;1.7%
+;12:30pm;GBP;Low;Construction PMI;51.7;better;48.1;48.9
+;1:00pm;EUR;Low;Retail Sales m/m;-0.3%;worse;0.3%;0.6%
+;3:15pm;GBP;Low;MPC Member Pill Speaks;;;;
+;4:30pm;CAD;High;Employment Change;-6.4K;worse;24.6K;59.9K
+;;CAD;High;Unemployment Rate;5.5%;same;5.5%;5.4%
+;;USD;High;Average Hourly Earnings m/m;0.4%;better;0.3%;0.4%
+;;USD;High;Non-Farm Employment Change;187K;worse;205K;185K
+;;USD;High;Unemployment Rate;3.5%;better;3.6%;3.6%
+;6:00pm;CAD;Medium;Ivey PMI;48.6;worse;49.1;50.2
+;;;;;;;;
+Sat Aug 5;;;;;;;;
+;;;;;;;;
+Sun Aug 6;;;;;;;;
+;;;;;;;;
+Mon Aug 7;All Day;AUD;Non-Economic;Bank Holiday;;;;
+;3:50am;JPY;Low;BOJ Summary of Opinions;;;;
+;5:30am;AUD;Low;ANZ Job Advertisements m/m;0.4%;same;;-2.7%
+;9:00am;JPY;Low;Leading Indicators;108.9%;same;108.9%;109.2%
+;9:45am;CHF;Low;Unemployment Rate;2.1%;worse;2.0%;2.0%
+;10:00am;EUR;Low;German Industrial Production m/m;-1.5%;worse;-0.4%;-0.1%
+;;GBP;Low;Halifax HPI m/m;-0.3%;worse;0.0%;-0.1%
+;11:00am;CHF;Medium;Foreign Currency Reserves;698B;same;;725B
+;12:30pm;EUR;Low;Sentix Investor Confidence;-18.9;better;-24.3;-22.5
+;All Day;CAD;Non-Economic;Bank Holiday;;;;
+;4:30pm;USD;Low;FOMC Member Bowman Speaks;;;;
+;8:00pm;GBP;Low;MPC Member Pill Speaks;;;;
+;11:00pm;USD;Low;Consumer Credit m/m;17.8B;better;13.8B;9.5B
+;;;;;;;;
+Tue Aug 8;3:01am;GBP;Low;BRC Retail Sales Monitor y/y;1.8%;worse;3.0%;4.2%
+;3:30am;JPY;Low;Average Cash Earnings y/y;2.3%;worse;3.0%;2.9%
+;;JPY;Low;Household Spending y/y;-4.2%;worse;-3.9%;-4.0%
+;3:50am;JPY;Low;Bank Lending y/y;2.9%;worse;3.0%;3.1%
+;;JPY;Low;Current Account;2.35T;better;2.24T;1.70T
+;4:30am;AUD;Low;Westpac Consumer Sentiment;-0.4%;same;;2.7%
+;5:30am;AUD;Medium;NAB Business Confidence;2;same;;-1
+;7:08am;CNY;Low;Trade Balance;576B;better;495B;491B
+;7:09am;CNY;Low;USD-Denominated Trade Balance;80.6B;better;70.8B;70.6B
+;7:35am;JPY;Low;30-y Bond Auction;1.59|3.5;same;;1.22|3.0
+;9:00am;JPY;Low;Economy Watchers Sentiment;54.4;better;54.0;53.6
+;10:00am;EUR;Low;German Final CPI m/m;0.3%;same;0.3%;0.3%
+;10:45am;EUR;Low;French Trade Balance;-6.7B;better;-8.0B;-7.9B
+;2:00pm;USD;Low;NFIB Small Business Index;91.9;same;91.2;91.0
+;4:15pm;USD;Medium;FOMC Member Harker Speaks;;;;
+;4:30pm;CAD;Low;Trade Balance;-3.7B;worse;-2.8B;-2.7B
+;;USD;Low;Trade Balance;-65.5B;same;-65.1B;-68.3B
+;6:00pm;USD;Low;Final Wholesale Inventories m/m;-0.5%;better;-0.3%;-0.3%
+;;USD;Low;IBD/TIPP Economic Optimism;40.3;worse;43.0;41.3
+;;;;;;;;
+Wed Aug 9;3:50am;JPY;Low;M2 Money Stock y/y;2.4%;worse;2.6%;2.6%
+;5:30am;CNY;High;CPI y/y;-0.3%;better;-0.4%;0.0%
+;;CNY;Medium;PPI y/y;-4.4%;worse;-4.0%;-5.4%
+;7:00am;NZD;High;Inflation Expectations q/q;2.83%;same;;2.79%
+;9:58am;JPY;Low;Prelim Machine Tool Orders y/y;-19.8%;same;;-21.1%
+;1:02pm;GBP;Low;10-y Bond Auction;4.35|2.6;same;;4.60|2.7
+;1:34pm;EUR;Low;German 10-y Bond Auction;2.46|1.6;same;;2.64|1.9
+;4:30pm;CAD;Low;Building Permits m/m;6.1%;better;-2.1%;12.6%
+;6:30pm;USD;Low;Crude Oil Inventories;5.9M;worse;2.1M;-17.0M
+;9:01pm;USD;Medium;10-y Bond Auction;4.00|2.6;same;;3.86|2.5
+;;;;;;;;
+Thu Aug 10;3:01am;GBP;Low;RICS House Price Balance;-53%;worse;-50%;-48%
+;3:50am;JPY;Low;PPI y/y;3.6%;same;3.5%;4.3%
+;5:00am;AUD;Low;MI Inflation Expectations;4.9%;same;;5.2%
+;12:00pm;EUR;Low;ECB Economic Bulletin;;;;
+;4:30pm;USD;High;Core CPI m/m;0.2%;same;0.2%;0.2%
+;;USD;High;CPI m/m;0.2%;same;0.2%;0.2%
+;;USD;High;CPI y/y;3.2%;worse;3.3%;3.0%
+;;USD;High;Unemployment Claims;248K;worse;231K;227K
+;6:00pm;USD;Low;Mortgage Delinquencies;3.37%;same;;3.56%
+;6:30pm;USD;Low;Natural Gas Storage;29B;worse;24B;14B
+;9:01pm;USD;Low;30-y Bond Auction;4.19|2.4;same;;3.91|2.4
+;10:00pm;USD;Low;Federal Budget Balance;-220.8B;better;-107.5B;-227.8B
+;;;;;;;;
+Fri Aug 11;12:15am;USD;Medium;FOMC Member Harker Speaks;;;;
+;2:30am;NZD;Low;BusinessNZ Manufacturing Index;46.3;same;;47.4
+;2:45am;NZD;Low;FPI m/m;-0.5%;same;;1.6%
+;3:30am;AUD;High;RBA Gov Lowe Speaks;;;;
+;All Day;JPY;Non-Economic;Bank Holiday;;;;
+;10:00am;GBP;High;GDP m/m;0.5%;better;0.2%;-0.1%
+;;GBP;Medium;Prelim GDP q/q;0.2%;better;0.0%;0.1%
+;;GBP;Low;Construction Output m/m;1.6%;better;0.0%;-0.3%
+;;GBP;Low;Goods Trade Balance;-15.5B;better;-16.6B;-18.4B
+;;GBP;Low;Index of Services 3m/3m;0.1%;better;0.0%;0.0%
+;;GBP;Low;Industrial Production m/m;1.8%;better;0.2%;-0.6%
+;;GBP;Low;Manufacturing Production m/m;2.4%;better;0.2%;-0.1%
+;;GBP;Low;Prelim Business Investment q/q;3.4%;better;-1.0%;3.3%
+;10:45am;EUR;Low;French Final CPI m/m;0.1%;better;0.0%;0.0%
+;12:00pm;EUR;Low;Italian Trade Balance;7.72B;better;4.23B;4.77B
+;12:33pm;CNY;Medium;New Loans;346B;worse;790B;3050B
+;;CNY;Low;M2 Money Supply y/y;10.7%;worse;11.0%;11.3%
+;4:01pm;GBP;Low;NIESR GDP Estimate;0.3%;same;;0.2%
+;4:30pm;USD;High;Core PPI m/m;0.3%;better;0.2%;-0.1%
+;;USD;High;PPI m/m;0.3%;better;0.2%;0.0%
+;6:00pm;USD;High;Prelim UoM Consumer Sentiment;71.2;same;71.4;71.6
+;;USD;Medium;Prelim UoM Inflation Expectations;3.3%;same;;3.4%
+;;;;;;;;
+Sat Aug 12;;;;;;;;
+;;;;;;;;
+Sun Aug 13;;;;;;;;
+;;;;;;;;
+Mon Aug 14;2:30am;NZD;Low;BusinessNZ Services Index;47.8;same;;49.6
+;2:45am;NZD;Low;Visitor Arrivals m/m;11.3%;same;;-27.5%
+;10:00am;EUR;Low;German WPI m/m;-0.2%;same;-0.1%;-0.2%
+;;;;;;;;
+Tue Aug 15;3:50am;JPY;Low;Prelim GDP Price Index y/y;3.4%;worse;3.8%;2.0%
+;;JPY;Low;Prelim GDP q/q;1.5%;better;0.8%;0.7%
+;5:30am;AUD;High;Monetary Policy Meeting Minutes;;;;
+;;AUD;High;Wage Price Index q/q;0.8%;worse;0.9%;0.8%
+;6:00am;CNY;High;Industrial Production y/y;3.7%;worse;4.3%;4.4%
+;;CNY;Medium;Retail Sales y/y;2.5%;worse;4.2%;3.1%
+;;CNY;Low;Fixed Asset Investment ytd/y;3.4%;worse;3.8%;3.8%
+;;CNY;Low;NBS Press Conference;;;;
+;;CNY;Low;Unemployment Rate;5.3%;worse;5.2%;5.2%
+;8:30am;JPY;Low;Revised Industrial Production m/m;2.4%;better;2.0%;2.0%
+;10:00am;GBP;High;Claimant Count Change;29.0K;worse;19.6K;16.2K
+;;GBP;Medium;Average Earnings Index 3m/y;8.2%;better;7.3%;7.2%
+;;GBP;Low;Unemployment Rate;4.2%;worse;4.0%;4.0%
+;10:30am;CHF;Low;PPI m/m;-0.1%;worse;0.2%;0.0%
+;All Day;EUR;Non-Economic;French Bank Holiday;;;;
+;All Day;EUR;Non-Economic;Italian Bank Holiday;;;;
+;1:00pm;EUR;Medium;German ZEW Economic Sentiment;-12.3;better;-15.0;-14.7
+;;EUR;Low;ZEW Economic Sentiment;-5.5;better;-12.0;-12.2
+;4:30pm;CAD;High;CPI m/m;0.6%;better;0.3%;0.1%
+;;CAD;High;Median CPI y/y;3.7%;same;3.7%;3.7%
+;;CAD;High;Trimmed CPI y/y;3.6%;same;3.6%;3.7%
+;;CAD;Medium;Common CPI y/y;4.8%;worse;5.0%;5.1%
+;;CAD;Low;Manufacturing Sales m/m;-1.7%;better;-2.1%;1.2%
+;;USD;High;Core Retail Sales m/m;1.0%;better;0.4%;0.2%
+;;USD;High;Empire State Manufacturing Index;-19.0;worse;-0.9;1.1
+;;USD;High;Retail Sales m/m;0.7%;better;0.4%;0.3%
+;;USD;Low;Import Prices m/m;0.4%;better;0.2%;-0.1%
+;4:32pm;CAD;Low;Core CPI m/m;0.5%;same;;-0.1%
+;5:30pm;GBP;Low;CB Leading Index m/m;-0.8%;same;;-0.8%
+;6:00pm;USD;Low;Business Inventories m/m;0.0%;better;0.2%;0.0%
+;;USD;Low;NAHB Housing Market Index;50;worse;56;56
+;6:45pm;NZD;Low;GDT Price Index;-7.4%;same;;-4.3%
+;7:00pm;USD;Low;FOMC Member Kashkari Speaks;;;;
+;;;;;;;;
+Wed Aug 16;12:00am;USD;Low;TIC Long-Term Purchases;195.9B;better;50.0B;23.6B
+;4:30am;AUD;Low;MI Leading Index m/m;0.0%;same;;0.1%
+;6:00am;NZD;High;Official Cash Rate;5.50%;same;5.50%;5.50%
+;;NZD;High;RBNZ Monetary Policy Statement;;;;
+;;NZD;High;RBNZ Rate Statement;;;;
+;7:00am;NZD;High;RBNZ Press Conference;;;;
+;10:00am;GBP;High;CPI y/y;6.8%;better;6.7%;7.9%
+;;GBP;Low;Core CPI y/y;6.9%;better;6.8%;6.9%
+;;GBP;Low;PPI Input m/m;-0.4%;worse;-0.1%;-1.3%
+;;GBP;Low;PPI Output m/m;0.1%;better;-0.2%;-0.2%
+;;GBP;Low;RPI y/y;9.0%;worse;9.1%;10.7%
+;12:30pm;GBP;Low;HPI y/y;1.7%;same;1.8%;1.8%
+;1:00pm;EUR;Low;Flash Employment Change q/q;0.2%;worse;0.4%;0.5%
+;;EUR;Low;Flash GDP q/q;0.3%;same;0.3%;0.3%
+;;EUR;Low;Industrial Production m/m;0.5%;better;-0.1%;0.0%
+;1:36pm;EUR;Low;German 30-y Bond Auction;2.68|2.2;same;;2.40|2.0
+;4:15pm;CAD;Low;Housing Starts;255K;better;245K;283K
+;4:30pm;CAD;Low;Wholesale Sales m/m;-2.8%;better;-4.2%;2.9%
+;;USD;Medium;Building Permits;1.44M;worse;1.47M;1.44M
+;;USD;Low;Housing Starts;1.45M;same;1.45M;1.40M
+;5:15pm;USD;Medium;Industrial Production m/m;1.0%;better;0.3%;-0.8%
+;;USD;Low;Capacity Utilization Rate;79.3%;better;79.1%;78.6%
+;6:30pm;USD;Low;Crude Oil Inventories;-6.0M;better;-2.4M;5.9M
+;10:00pm;USD;High;FOMC Meeting Minutes;;;;
+;;;;;;;;
+Thu Aug 17;12:10am;NZD;Medium;RBNZ Gov Orr Speaks;;;;
+;2:45am;NZD;Low;PPI Input q/q;-0.2%;worse;0.4%;0.0%
+;;NZD;Low;PPI Output q/q;0.2%;worse;0.8%;0.2%
+;3:50am;JPY;Low;Core Machinery Orders m/m;2.7%;worse;3.6%;-7.6%
+;;JPY;Low;Trade Balance;-0.56T;worse;-0.44T;-0.54T
+;5:30am;AUD;High;Employment Change;-14.6K;worse;14.6K;31.6K
+;;AUD;High;Unemployment Rate;3.7%;worse;3.6%;3.5%
+;8:30am;JPY;Low;Tertiary Industry Activity m/m;-0.4%;worse;-0.1%;1.0%
+;1:00pm;EUR;Low;Trade Balance;12.5B;better;3.8B;0.2B
+;4:30pm;CAD;Low;Foreign Securities Purchases;12.56B;worse;13.20B;10.21B
+;;USD;High;Unemployment Claims;239K;same;240K;250K
+;;USD;Medium;Philly Fed Manufacturing Index;12.0;better;-9.8;-13.5
+;6:00pm;USD;Low;CB Leading Index m/m;-0.4%;same;-0.4%;-0.7%
+;6:30pm;USD;Low;Natural Gas Storage;35B;same;35B;29B
+;;;;;;;;
+Fri Aug 18;3:30am;JPY;Low;National Core CPI y/y;3.1%;same;3.1%;3.3%
+;10:00am;GBP;Medium;Retail Sales m/m;-1.2%;worse;-0.6%;0.6%
+;12:34pm;CNY;Low;Foreign Direct Investment ytd/y;-4.0%;same;;-2.7%
+;1:00pm;EUR;Low;Final Core CPI y/y;5.5%;same;5.5%;5.5%
+;;EUR;Low;Final CPI y/y;5.3%;same;5.3%;5.3%
+;4:30pm;CAD;Low;IPPI m/m;0.4%;better;0.2%;-0.6%
+;;CAD;Low;RMPI m/m;3.5%;better;2.1%;-2.0%
+;;;;;;;;
+Sat Aug 19;;;;;;;;
+;;;;;;;;
+Sun Aug 20;;;;;;;;
+;;;;;;;;
+Mon Aug 21;2:45am;NZD;Low;Trade Balance;-1107M;worse;-50M;-111M
+;3:01am;GBP;Low;Rightmove HPI m/m;-1.9%;same;;-0.2%
+;5:15am;CNY;High;1-y Loan Prime Rate;3.45%;better;3.40%;3.55%
+;;CNY;Medium;5-y Loan Prime Rate;4.20%;better;4.05%;4.20%
+;7:00am;NZD;Low;Credit Card Spending y/y;3.6%;same;;5.1%
+;10:00am;EUR;Low;German PPI m/m;-1.1%;worse;-0.1%;-0.3%
+;2:00pm;EUR;Low;German Buba Monthly Report;;;;
+;4:30pm;CAD;Low;NHPI m/m;-0.1%;worse;0.0%;0.1%
+;;;;;;;;
+Tue Aug 22;9:00am;JPY;Low;BOJ Core CPI y/y;3.3%;better;2.9%;3.0%
+;10:00am;CHF;Low;Trade Balance;3.13B;worse;4.50B;4.79B
+;;GBP;Low;Public Sector Net Borrowing;3.5B;same;3.8B;17.1B
+;12:00pm;EUR;Low;Current Account;35.8B;better;10.2B;7.9B
+;Day 1;All;Medium;BRICS Summit;;;;
+;2:00pm;GBP;Low;CBI Industrial Order Expectations;-15;worse;-11;-9
+;5:59pm;USD;Medium;Richmond Manufacturing Index;-7;better;-10;-9
+;6:00pm;USD;Medium;Existing Home Sales;4.07M;worse;4.15M;4.16M
+;6:30pm;AUD;Low;CB Leading Index m/m;0.0%;same;;0.0%
+;10:30pm;USD;Low;FOMC Member Goolsbee Speaks;;;;
+;10:32pm;USD;Low;FOMC Member Bowman Speaks;;;;
+;11:30pm;USD;Low;FOMC Member Goolsbee Speaks;;;;
+;;;;;;;;
+Wed Aug 23;2:45am;NZD;Medium;Retail Sales q/q;-1.0%;worse;-0.4%;-1.6%
+;;NZD;Low;Core Retail Sales q/q;-1.8%;worse;-0.2%;-1.6%
+;3:00am;AUD;Low;Flash Manufacturing PMI;49.4;same;;49.6
+;;AUD;Low;Flash Services PMI;46.7;same;;47.9
+;4:30am;JPY;Low;Flash Manufacturing PMI;49.7;same;49.6;49.6
+;11:15am;EUR;High;French Flash Manufacturing PMI;46.4;better;45.1;45.1
+;;EUR;High;French Flash Services PMI;46.7;worse;47.5;47.1
+;11:30am;EUR;High;German Flash Manufacturing PMI;39.1;same;38.9;38.8
+;;EUR;High;German Flash Services PMI;47.3;worse;51.5;52.3
+;12:00pm;EUR;Medium;Flash Manufacturing PMI;43.7;better;42.8;42.7
+;;EUR;Medium;Flash Services PMI;48.3;worse;50.6;50.9
+;Day 2;All;Medium;BRICS Summit;;;;
+;12:30pm;GBP;High;Flash Manufacturing PMI;42.5;worse;45.1;45.3
+;;GBP;High;Flash Services PMI;48.7;worse;50.9;51.5
+;4:30pm;CAD;Medium;Core Retail Sales m/m;-0.8%;worse;0.3%;-0.3%
+;;CAD;Medium;Retail Sales m/m;0.1%;better;0.0%;0.1%
+;5:45pm;USD;High;Flash Manufacturing PMI;47.0;worse;48.9;49.0
+;;USD;High;Flash Services PMI;51.0;worse;52.1;52.3
+;6:00pm;EUR;Low;Consumer Confidence;-16;worse;-15;-15
+;;USD;Medium;New Home Sales;714K;better;705K;684K
+;6:30pm;USD;Low;Crude Oil Inventories;-6.1M;better;-2.9M;-6.0M
+;;;;;;;;
+Thu Aug 24;Day 3;All;Medium;BRICS Summit;;;;
+;2:00pm;GBP;Low;CBI Realized Sales;-44;worse;-14;-25
+;3:00pm;GBP;Low;BOE Quarterly Bulletin;;;;
+;4:30pm;CAD;Low;Corporate Profits q/q;-2.0%;same;;-5.6%
+;;USD;High;Unemployment Claims;230K;better;239K;240K
+;;USD;Medium;Core Durable Goods Orders m/m;0.5%;better;0.2%;0.5%
+;;USD;Medium;Durable Goods Orders m/m;-5.2%;worse;-4.1%;4.6%
+;6:30pm;USD;Low;Natural Gas Storage;18B;better;36B;35B
+;8:00pm;USD;Medium;FOMC Member Harker Speaks;;;;
+;Day 1;All;Medium;Jackson Hole Symposium;;;;
+;;;;;;;;
+Fri Aug 25;3:01am;GBP;Low;GfK Consumer Confidence;-25;better;-29;-30
+;3:30am;JPY;Medium;Tokyo Core CPI y/y;2.8%;worse;2.9%;3.0%
+;3:50am;JPY;Low;SPPI y/y;1.7%;better;1.2%;1.4%
+;10:00am;EUR;Low;German Final GDP q/q;0.0%;same;0.0%;0.0%
+;12:00pm;EUR;High;German ifo Business Climate;85.7;worse;86.8;87.4
+;5:00pm;EUR;Low;Belgian NBB Business Climate;-14.9;worse;-13.5;-14.8
+;6:00pm;USD;High;Revised UoM Consumer Sentiment;69.5;worse;71.2;71.2
+;;USD;Low;Revised UoM Inflation Expectations;3.5%;same;;3.3%
+;6:05pm;USD;High;Fed Chair Powell Speaks;;;;
+;7:00pm;USD;Medium;FOMC Member Harker Speaks;;;;
+;7:30pm;USD;Medium;FOMC Member Harker Speaks;;;;
+;Day 2;All;High;Jackson Hole Symposium;;;;
+;8:30pm;USD;Low;FOMC Member Goolsbee Speaks;;;;
+;10:00pm;USD;Low;FOMC Member Goolsbee Speaks;;;;
+;11:00pm;EUR;High;ECB President Lagarde Speaks;;;;
+;;;;;;;;
+Sat Aug 26;Day 3;All;Medium;Jackson Hole Symposium;;;;
+;8:25pm;GBP;Low;MPC Member Broadbent Speaks;;;;
+;;JPY;Medium;BOJ Gov Ueda Speaks;;;;
+;;;;;;;;
+Sun Aug 27;;;;;;;;
+;;;;;;;;
+Mon Aug 28;5:30am;AUD;Medium;Retail Sales m/m;0.5%;better;0.2%;-0.8%
+;All Day;GBP;Non-Economic;Bank Holiday;;;;
+;12:00pm;EUR;Low;M3 Money Supply y/y;-0.4%;worse;0.0%;0.6%
+;;EUR;Low;Private Loans y/y;1.3%;worse;1.6%;1.7%
+;4:00pm;EUR;Low;German Buba President Nagel Speaks;;;;
+;5:00pm;CNY;Low;CB Leading Index m/m;-0.6%;same;;-0.1%
+;;;;;;;;
+Tue Aug 29;3:01am;GBP;Low;BRC Shop Price Index y/y;6.9%;same;;7.6%
+;3:30am;JPY;Low;Unemployment Rate;2.7%;worse;2.5%;2.5%
+;10:00am;EUR;Low;German GfK Consumer Climate;-25.5;worse;-24.5;-24.6
+;11:40am;AUD;High;RBA Gov-Designate Bullock Speaks;;;;
+;5:00pm;USD;High;S&P/CS Composite-20 HPI y/y;-1.2%;better;-1.5%;-1.7%
+;;USD;Low;HPI m/m;0.3%;better;0.2%;0.7%
+;6:00pm;USD;High;CB Consumer Confidence;106.1;worse;116.0;114.0
+;;USD;High;JOLTS Job Openings;8.83M;worse;9.49M;9.17M
+;;;;;;;;
+Wed Aug 30;2:45am;NZD;Low;Building Consents m/m;-5.2%;same;;3.4%
+;5:30am;AUD;High;CPI y/y;4.9%;worse;5.2%;5.4%
+;;AUD;Low;Building Approvals m/m;-8.1%;worse;-0.5%;-7.9%
+;;AUD;Low;Construction Work Done q/q;0.4%;worse;0.9%;3.8%
+;9:00am;JPY;Low;Consumer Confidence;36.2;worse;37.5;37.1
+;10:00am;EUR;Low;German Import Prices m/m;-0.6%;worse;-0.3%;-1.6%
+;All Day;EUR;High;German Prelim CPI m/m;0.3%;same;0.3%;0.3%
+;11:00am;CHF;Low;KOF Economic Barometer;91.1;better;90.9;92.1
+;;EUR;High;Spanish Flash CPI y/y;2.6%;better;2.5%;2.3%
+;12:00pm;CHF;Low;Credit Suisse Economic Expectations;-38.6;same;;-32.6
+;12:30pm;GBP;Low;M4 Money Supply m/m;-0.5%;worse;0.1%;-0.1%
+;;GBP;Low;Mortgage Approvals;49K;worse;51K;55K
+;;GBP;Low;Net Lending to Individuals m/m;1.4B;same;1.4B;1.7B
+;1:14pm;EUR;Low;Italian 10-y Bond Auction;4.20|1.6;same;;4.10|1.4
+;4:15pm;USD;High;ADP Non-Farm Employment Change;177K;worse;194K;371K
+;4:30pm;USD;High;Prelim GDP q/q;2.1%;worse;2.4%;2.4%
+;;USD;Medium;Prelim GDP Price Index q/q;2.0%;worse;2.2%;2.2%
+;;USD;Low;Goods Trade Balance;-91.2B;worse;-90.0B;-88.8B
+;;USD;Low;Prelim Wholesale Inventories m/m;-0.1%;better;0.2%;-0.5%
+;6:00pm;USD;Medium;Pending Home Sales m/m;0.9%;better;-0.8%;0.4%
+;6:30pm;USD;Low;Crude Oil Inventories;-10.6M;better;-2.2M;-6.1M
+;;;;;;;;
+Thu Aug 31;3:50am;JPY;Low;Prelim Industrial Production m/m;-2.0%;worse;-1.2%;2.4%
+;;JPY;Low;Retail Sales y/y;6.8%;better;5.5%;5.6%
+;5:00am;NZD;Low;ANZ Business Confidence;-3.7;same;;-13.1
+;5:30am;AUD;Low;Private Capital Expenditure q/q;2.8%;better;1.1%;3.7%
+;;AUD;Low;Private Sector Credit m/m;0.3%;same;0.3%;0.3%
+;;CNY;High;Manufacturing PMI;49.7;better;49.1;49.3
+;;CNY;Medium;Non-Manufacturing PMI;51.0;same;51.3;51.5
+;9:00am;JPY;Low;Housing Starts y/y;-6.7%;worse;-1.3%;-4.8%
+;10:00am;EUR;Low;German Retail Sales m/m;-0.8%;worse;0.3%;-0.2%
+;10:30am;CHF;Low;Retail Sales y/y;-2.2%;worse;1.5%;1.0%
+;10:45am;EUR;Low;French Consumer Spending m/m;0.3%;same;0.3%;0.9%
+;;EUR;Low;French Prelim CPI m/m;1.0%;better;0.7%;0.1%
+;;EUR;Low;French Prelim GDP q/q;0.5%;same;0.5%;0.5%
+;11:15am;GBP;Low;MPC Member Pill Speaks;;;;
+;11:55am;EUR;Low;German Unemployment Change;18K;worse;10K;1K
+;12:00pm;EUR;Low;Italian Monthly Unemployment Rate;7.6%;worse;7.4%;7.5%
+;1:00pm;EUR;Medium;Core CPI Flash Estimate y/y;5.3%;same;5.3%;5.5%
+;;EUR;Medium;CPI Flash Estimate y/y;5.3%;better;5.1%;5.3%
+;;EUR;Low;Italian Prelim CPI m/m;0.4%;better;0.1%;0.0%
+;;EUR;Low;Unemployment Rate;6.4%;same;6.4%;6.4%
+;3:30pm;EUR;Low;ECB Monetary Policy Meeting Accounts;;;;
+;;USD;Low;Challenger Job Cuts y/y;266.9%;same;;-8.2%
+;4:30pm;CAD;Low;Current Account;-6.6B;better;-11.1B;-3.2B
+;;USD;High;Core PCE Price Index m/m;0.2%;same;0.2%;0.2%
+;;USD;High;Unemployment Claims;228K;better;236K;232K
+;;USD;Low;Personal Income m/m;0.2%;worse;0.3%;0.3%
+;;USD;Low;Personal Spending m/m;0.8%;better;0.7%;0.6%
+;5:45pm;USD;Low;Chicago PMI;48.7;better;44.3;42.8
+;6:30pm;USD;Low;Natural Gas Storage;32B;worse;28B;18B

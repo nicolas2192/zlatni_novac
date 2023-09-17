@@ -1,0 +1,98 @@
+event_date;event_time;currency;impact;event;actual_val;actual_status;forecast;previous
+;;;;;;;;
+Sun Sep 17;;;;;;;;
+;;;;;;;;
+Mon Sep 18;2:30am;NZD;Low;BusinessNZ Services Index;;;;47.8
+;3:01am;GBP;Low;Rightmove HPI m/m;;;;-1.9%
+;All Day;JPY;Non-Economic;Bank Holiday;;;;
+;18th-23rd;CNY;Low;Foreign Direct Investment ytd/y;;;;-4.0%
+;Tentative;EUR;Low;German Buba Monthly Report;;;;
+;4:15pm;CAD;Low;Housing Starts;;;257K;255K
+;4:30pm;CAD;Low;IPPI m/m;;;0.5%;0.4%
+;;CAD;Low;RMPI m/m;;;3.8%;3.5%
+;6:00pm;USD;Low;NAHB Housing Market Index;;;50;50
+;;;;;;;;
+Tue Sep 19;12:00am;USD;Low;TIC Long-Term Purchases;;;116.5B;195.9B
+;5:30am;AUD;High;Monetary Policy Meeting Minutes;;;;
+;10:00am;CHF;Low;Trade Balance;;;4.23B;3.13B
+;12:00pm;EUR;Low;Current Account;;;30.2B;35.8B
+;1:00pm;EUR;Low;Final Core CPI y/y;;;5.3%;5.3%
+;;EUR;Low;Final CPI y/y;;;5.3%;5.3%
+;Tentative;GBP;Low;30-y Bond Auction;;;;4.48|2.3
+;4:30pm;CAD;High;CPI m/m;;;0.1%;0.6%
+;;CAD;High;Median CPI y/y;;;3.7%;3.7%
+;;CAD;High;Trimmed CPI y/y;;;3.5%;3.6%
+;;CAD;Medium;Common CPI y/y;;;4.8%;4.8%
+;;CAD;Low;Core CPI m/m;;;;0.5%
+;;USD;Medium;Building Permits;;;1.45M;1.44M
+;;USD;Low;Housing Starts;;;1.44M;1.45M
+;Tentative;NZD;Low;GDT Price Index;;;;2.7%
+;9:45pm;CAD;Low;Gov Council Member Kozicki Speaks;;;;
+;;;;;;;;
+Wed Sep 20;2:45am;NZD;Low;Current Account;;;-4.40B;-5.22B
+;3:50am;JPY;Low;Trade Balance;;;-0.44T;-0.56T
+;4:30am;AUD;Low;MI Leading Index m/m;;;;0.0%
+;5:15am;CNY;High;1-y Loan Prime Rate;;;3.45%;3.45%
+;;CNY;High;5-y Loan Prime Rate;;;4.20%;4.20%
+;10:00am;EUR;Low;German PPI m/m;;;0.1%;-1.1%
+;;GBP;High;CPI y/y;;;7.1%;6.8%
+;;GBP;Low;Core CPI y/y;;;6.8%;6.9%
+;;GBP;Low;PPI Input m/m;;;0.2%;-0.4%
+;;GBP;Low;PPI Output m/m;;;0.2%;0.1%
+;;GBP;Low;RPI y/y;;;9.3%;9.0%
+;11:00am;CHF;Low;SECO Economic Forecasts;;;;
+;12:30pm;GBP;Low;HPI y/y;;;1.5%;1.7%
+;6:30pm;AUD;Low;CB Leading Index m/m;;;;0.0%
+;;USD;Low;Crude Oil Inventories;;;;4.0M
+;9:30pm;CAD;Low;BOC Summary of Deliberations;;;;
+;10:00pm;USD;High;Federal Funds Rate;;;5.50%;5.50%
+;;USD;High;FOMC Economic Projections;;;;
+;;USD;High;FOMC Statement;;;;
+;10:30pm;USD;High;FOMC Press Conference;;;;
+;;;;;;;;
+Thu Sep 21;2:45am;NZD;High;GDP q/q;;;0.4%;-0.1%
+;5:30am;AUD;Low;RBA Bulletin;;;;
+;7:00am;NZD;Low;Credit Card Spending y/y;;;;3.6%
+;10:00am;GBP;Low;Public Sector Net Borrowing;;;9.8B;3.5B
+;11:30am;CHF;High;SNB Monetary Policy Assessment;;;;
+;;CHF;High;SNB Policy Rate;;;2.00%;1.75%
+;Tentative;CHF;High;SNB Press Conference;;;;
+;3:00pm;GBP;High;Monetary Policy Summary;;;;
+;;GBP;High;MPC Official Bank Rate Votes;;;8-0-1;8-0-1
+;;GBP;High;Official Bank Rate;;;5.50%;5.25%
+;Tentative;GBP;Low;BOE Inflation Letter;;;;
+;4:30pm;CAD;Low;NHPI m/m;;;0.0%;-0.1%
+;;USD;High;Unemployment Claims;;;222K;220K
+;;USD;Medium;Philly Fed Manufacturing Index;;;-0.4;12.0
+;;USD;Low;Current Account;;;-220B;-219B
+;6:00pm;EUR;Low;Consumer Confidence;;;-17;-16
+;;USD;Medium;Existing Home Sales;;;4.10M;4.07M
+;;USD;Low;CB Leading Index m/m;;;-0.4%;-0.4%
+;6:30pm;USD;Low;Natural Gas Storage;;;;57B
+;;;;;;;;
+Fri Sep 22;1:00am;NZD;Low;Westpac Consumer Sentiment;;;;83.1
+;2:45am;NZD;Low;Trade Balance;;;;-1107M
+;3:00am;AUD;Low;Flash Manufacturing PMI;;;;49.6
+;;AUD;Low;Flash Services PMI;;;;47.8
+;3:01am;GBP;Low;GfK Consumer Confidence;;;-26;-25
+;3:30am;JPY;Low;National Core CPI y/y;;;3.0%;3.1%
+;4:30am;JPY;Low;Flash Manufacturing PMI;;;49.9;49.6
+;Tentative;JPY;High;Monetary Policy Statement;;;;
+;Tentative;JPY;Medium;BOJ Policy Rate;;;-0.10%;-0.10%
+;10:00am;GBP;High;Retail Sales m/m;;;0.5%;-1.2%
+;Tentative;JPY;High;BOJ Press Conference;;;;
+;11:15am;EUR;High;French Flash Manufacturing PMI;;;46.3;46.0
+;;EUR;High;French Flash Services PMI;;;46.0;46.0
+;11:30am;EUR;High;German Flash Manufacturing PMI;;;39.5;39.1
+;;EUR;High;German Flash Services PMI;;;47.2;47.3
+;12:00pm;EUR;Medium;Flash Manufacturing PMI;;;44.0;43.5
+;;EUR;Medium;Flash Services PMI;;;47.7;47.9
+;12:30pm;GBP;High;Flash Manufacturing PMI;;;43.5;43.0
+;;GBP;High;Flash Services PMI;;;49.1;49.5
+;2:00pm;GBP;Low;CBI Industrial Order Expectations;;;-18;-15
+;4:30pm;CAD;Medium;Core Retail Sales m/m;;;;-0.8%
+;;CAD;Medium;Retail Sales m/m;;;;0.1%
+;5:45pm;USD;High;Flash Manufacturing PMI;;;47.9;47.9
+;;USD;High;Flash Services PMI;;;50.8;50.5
+;;;;;;;;
+Sat Sep 23;6:00pm;NZD;Non-Economic;Daylight Saving Time Shift;;;;
