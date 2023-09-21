@@ -1,7 +1,7 @@
 import logging
 import datetime
-from packages.common_utils import *
-from  packages.ff_scraper import * 
+from zlatni_novac.packages.forexfactory_calendar.common_utils import *
+from  zlatni_novac.packages.forexfactory_calendar.ff_scraper import * 
 
 
 def forexfactory_calendar(logger):
